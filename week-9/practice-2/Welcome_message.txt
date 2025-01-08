@@ -1,0 +1,3 @@
+welcome to rust programming
+week-9 rust file input and output
+department of computer science 😁😂👌
